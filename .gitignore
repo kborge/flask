@@ -1,0 +1,11 @@
+*.pyc
+*.pyo
+*.db
+*.db.backup
+*.sublime-workspace
+venv/*
+.idea/workspace.xml
+workspace
+.idea
+.idea/*
+.DS_Store
